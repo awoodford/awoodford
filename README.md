@@ -1,4 +1,7 @@
 ![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=awoodford&show_icons=true&theme=dracula)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1113248793&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **awoodford/awoodford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
